@@ -192,8 +192,7 @@ ENABLE_VENDOR_RIL_SERVICE := true
 
 #BOARD_VENDOR_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy/vendor
 
-# Soong namespaces
-PRODUCT_SOONG_NAMESPACES += $(COMMON_PATH)
+BOARD_SEPOLICY_DIRS += $(COMMON_PATH)/sepolicy-minimal
 
 # Treble
 BOARD_VNDK_VERSION := current
