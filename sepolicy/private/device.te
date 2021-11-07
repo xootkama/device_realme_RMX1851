@@ -1,1 +1,3 @@
 type device_latency, dev_type;
+
+type vendor_persist_block_device, dev_type;
