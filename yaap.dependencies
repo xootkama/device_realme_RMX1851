@@ -6,9 +6,9 @@
     "remote": "pixel-devices-blobs"
   },
   {
-    "repository": "kernel_realme_sdm710",
-    "target_path": "kernel/realme/sdm710",
-    "branch": "eleven"
+    "repository": "xootkama/kernel_realme_RMX1851-1",
+    "target_path": "kernel/realme/RMX1851",
+    "branch": "a11/staging"
   },
   {
     "repository": "arter97/arm64-gcc",
