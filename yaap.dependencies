@@ -1,0 +1,26 @@
+[
+  {
+    "repository" : "vendor_realme_sdm710-common",
+    "target_path": "vendor/realme/RMX1851",
+    "branch": "eleven",
+    "remote": "pixel-devices-blobs"
+  },
+  {
+    "repository": "KrishnakantShedge/kernel_realme_RMX1851",
+    "target_path": "kernel/realme/RMX1851",
+    "branch": "Lina",
+    "remote": "github"
+  },
+  {
+    "repository": "mvaisakh/gcc-arm64",
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
+    "branch": "gcc-master",
+    "remote": "github"
+  },
+  {
+    "repository": "mvaisakh/gcc-arm",
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
+    "branch": "gcc-master",
+    "remote": "github"
+  }
+]
