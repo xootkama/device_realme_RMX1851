@@ -27,7 +27,7 @@ $(call inherit-product, vendor/yaap/config/common_full_phone.mk)
 
 $(call inherit-product, device/realme/RMX1851/device.mk)
 
-PRODUCT_NAME := yaap_RMX1851
+PRODUCT_NAME := aosp_RMX1851
 PRODUCT_DEVICE := RMX1851
 PRODUCT_MANUFACTURER := Realme
 PRODUCT_BRAND := realme
