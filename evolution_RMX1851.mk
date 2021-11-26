@@ -24,7 +24,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 
 # Inherit some common LOS stuff.
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
-
 $(call inherit-product, device/realme/RMX1851/device.mk)
 
 PRODUCT_NAME := evolution_RMX1851
